@@ -1,4 +1,5 @@
 import pytest
+import cv2
 from unittest.mock import patch, MagicMock
 from Gesture_Controller import GestureController, Controller, HandRecog, Gest, HLabel
 
